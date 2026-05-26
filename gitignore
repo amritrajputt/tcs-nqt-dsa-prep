@@ -1,2 +1,3 @@
-../removeDuplicate.class
-../main.class
+*.class
+*.jar
+.DS_Store
